@@ -103,7 +103,6 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-.env
 .venv
 env/
 venv/
@@ -167,7 +166,6 @@ press/public/css/marketplace-next.css
 
 # IDE
 .idea
-.vscode
 
 # Vitepress
 docs/.vitepress/cache
@@ -185,3 +183,4 @@ dashboard/auto-imports.d.ts
 *.sql.gz
 *.csv
 *.bak-*
+config.bat
