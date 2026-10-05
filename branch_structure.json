@@ -1,0 +1,33 @@
+{
+  "default_branch": "develop",
+  "branches": [
+    "develop",
+    "feat/build-server-stats-failure-charts",
+    "feat/scheduled-deploy-group-title",
+    "fix/api/login_enum",
+    "fix/backup-crashed-global-search",
+    "fix/record-job-cancel-user",
+    "fix/vm-migration-docker-chown",
+    "master"
+  ],
+  "parent": {
+    "develop": null,
+    "feat/build-server-stats-failure-charts": "develop",
+    "feat/scheduled-deploy-group-title": "develop",
+    "fix/api/login_enum": "develop",
+    "fix/backup-crashed-global-search": "develop",
+    "fix/record-job-cancel-user": "develop",
+    "fix/vm-migration-docker-chown": "develop",
+    "master": "develop"
+  },
+  "order": [
+    "develop",
+    "feat/build-server-stats-failure-charts",
+    "feat/scheduled-deploy-group-title",
+    "fix/api/login_enum",
+    "fix/backup-crashed-global-search",
+    "fix/record-job-cancel-user",
+    "fix/vm-migration-docker-chown",
+    "master"
+  ]
+}
